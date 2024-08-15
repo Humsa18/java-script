@@ -1,0 +1,50 @@
+                      Javascript
+          evel(), it is used to perform calculatins.
+
+  J.s Arrays:-
+              Arrays is used to store different types.
+       It is also variable 
+
+                Syntax
+     let variable name= [value] 
+   1   variable name . length 
+      
+   2   variable name =[index value] to console specific value. 
+
+   3  variable name =[index value] (new value) to change the value to specific index.
+
+   4  variable name . to string () convert an Arrays to a string of comma seperated value.
+   
+   5  variable name .join() join al the arrays elements using a separation.
+
+   6  variable name .pop() remove last element. 
+
+   7  variable name .push()to add new element at last. 
+
+   8 variable name  .shift() remove first element.
+
+   9 variable name .unshift() to add new element at first.
+
+   10
+
+   11
+
+   12
+
+   13
+
+   14
+
+   15
+
+   16
+
+   17
+
+   18
+
+   19
+
+   20
+
+   21
